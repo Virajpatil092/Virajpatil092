@@ -1,3 +1,5 @@
+<div align="center">
+
 ![alt text](https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg)
 
 # 💫 About Me:
@@ -21,3 +23,4 @@ I'm currently learning full stack development and i'm also interested in CP and 
 [![](https://visitcount.itsvg.in/api?id=Virajpatil092&icon=4&color=12)](https://visitcount.itsvg.in)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Viraj_Patil_092?ext=heatmap)
+</div>
