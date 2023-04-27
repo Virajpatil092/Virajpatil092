@@ -1,3 +1,5 @@
+![alt text](https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg)
+
 # 💫 About Me:
 I'm currently learning full stack development and i'm also interested in CP and DSA
 
